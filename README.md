@@ -1,2 +1,2 @@
 # AgredaLuis.github.io
-Repositorioa para probar Github pages
+Repositorio para probar Github pages
